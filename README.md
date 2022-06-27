@@ -4,7 +4,7 @@
 
 ![] [hello there]
 
-[hello there]: https://www.teeturtle.com/products/hello-there?variant=19577791467283]
+[hello there]: https://www.teeturtle.com/products/hello-there?variant=19577791467283](https://i.kym-cdn.com/photos/images/original/001/475/420/c62.gif
 
 ## The Ultimate Battle: Growth mindset 
 
