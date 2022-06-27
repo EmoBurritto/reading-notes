@@ -1,6 +1,6 @@
 # My Reading Notes Journal!
 
-*This is where I'm going to write my reading notes.
+*This is where I'm going to write my reading notes*
 
 ## Growth mindset is my own perception of my abilities. I can keep improving with determnation, preserverance, practice etc. 
 
