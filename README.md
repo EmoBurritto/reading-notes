@@ -7,8 +7,8 @@
 *The ability to consistently adapt and overcome any and all obstacles life throws at you is the basis of a growth mindset; now of course that is easier said than done. Frist of, consistency is needed in order to develop and practice a sound growth mindset. It's like a habit, if you pick and choose your battles and when to apply, your really just hurting yourself. No work gets done due to our great frenemy, procrastonation. Now once you have the consistency and motivation to try and try again with a positive outlook, progress can be made. Now, there's no need to reinvent the wheel, the art of choosing when to engage, rest and ultimately utilize all resources, is the trickster we all stumble upon. Ultimately, by adapting to all sitations accordingly, postive actions can be executed; thus. resulting in the overcoming of set obstacle. So take a rest, reflect and reengage because life is always ready to throw another obstacle at you, whether your ready or not.*
 
 ### Reminders to stay in a growth mindset:
-1. Positive minds yield positive results
+1. Positive Minds Yield Positive Results
 2. Create SMART Goals: Specific, Measurable, Achievable, Relevant, and Time-Bound
-3. Rest, Reflect, Reengage: consistency is key
+3. Rest, Reflect, Reengage: Consistency is Key
 
 #### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
