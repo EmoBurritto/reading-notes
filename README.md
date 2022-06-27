@@ -9,3 +9,5 @@ Reminders to stay in a growth mindset:
 - Put your mask on first, you can't help others if you don't take of yourself. 
 - Whenever I'm struggling, remember no one else is walking in my shoes. Thi sis MY journey!
 - Try to focus on what's possible, not excuses. We can always find reasons. 
+
+My Github profile is: https://github.com/EmoBurritto
