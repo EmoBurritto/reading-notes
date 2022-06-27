@@ -6,6 +6,8 @@
 
 [hellothere]: https://www.teeturtle.com/products/hello-there?variant=19577791467283](https://i.kym-cdn.com/photos/images/original/001/475/420/c62.gif
 
+!{}(https://i.kym-cdn.com/photos/images/original/001/475/420/c62.gif)
+
 ## The Ultimate Battle: Growth mindset 
 
 *The ability to consistently adapt and overcome any and all obstacles life throws at you is the basis of a growth mindset; now of course that is easier said than done. Frist of, consistency is needed in order to develop and practice a sound growth mindset. It's like a habit, if you pick and choose your battles and when to apply, your really just hurting yourself. No work gets done due to our great frenemy, procrastonation. Now once you have the consistency and motivation to try and try again with a positive outlook, progress can be made. Now, there's no need to reinvent the wheel, the art of choosing when to engage, rest and ultimately utilize all resources, is the trickster we all stumble upon. Ultimately, by adapting to all sitations accordingly, postive actions can be executed; thus. resulting in the overcoming of set obstacle. So take a rest, reflect and reengage because life is always ready to throw another obstacle at you, whether your ready or not.*
