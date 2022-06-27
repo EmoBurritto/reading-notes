@@ -15,4 +15,6 @@
 2. Create SMART Goals: Specific, Measurable, Achievable, Relevant, and Time-Bound
 3. Rest, Reflect, Reengage: Consistency is Key
 
+![](/smartgoalsgif.gif)
+
 #### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
