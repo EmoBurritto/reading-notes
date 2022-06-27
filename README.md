@@ -10,4 +10,4 @@
 3. Whenever I'm struggling, remember no one else is walking in my shoes. Thi sis MY journey!
 4. Try to focus on what's possible, not excuses. We can always find reasons. 
 
-#### My Github profile lives here: https://github.com/EmoBurritto
+#### My Github profile lives here: https://josegonzalez1394.github.io/reading-notes/
