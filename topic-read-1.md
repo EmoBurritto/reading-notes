@@ -19,7 +19,7 @@ For italic text, use a * insert text and end with *. For example:
 
 *Fancy*
 
-*For a list of ordered items, use 1., 2. 3. 4. accordingly. For example: 
+For a list of ordered items, use 1., 2. 3. 4. accordingly. For example: 
 
 1. test 
 2. test 
