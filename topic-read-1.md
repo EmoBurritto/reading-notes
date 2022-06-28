@@ -11,7 +11,8 @@
 
 For bold text, use two *;ex. ** with text will result in **BOLD.
 
-For italic text, usea * insert text and end with *; like this line of code.
+For italic text, use a * insert text and end with *; for example: 
+*Fancy*
 
 *For a list of ordered items, use 1., 2. 3. 4. accordingly.For example:* 
 1. test 
