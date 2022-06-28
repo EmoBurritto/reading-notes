@@ -11,7 +11,7 @@ To add a Title use the # in order to make it the main heading. Like HTML, to mak
 
 To create paragraphs, add a line of blank code in between the desired text in order to properly format the prargraph.
 
-For bold text, use three * followed by text then *. For example
+For bold text, use three * followed by text then three *. For example
 
 ***BOLD*** word 
 
@@ -36,7 +36,9 @@ For an unorderd list of items you can use a - or a single *. For example:
 
 ## Mastering Markdown on GitHub
 
-*
+For bold with an italic word in between the text start with the bold format do italic text then end with bold format; For example ** __ __ **:
+
+**Bold words followed by _italic text_ done**
 
 
 ## GitHub Pages
