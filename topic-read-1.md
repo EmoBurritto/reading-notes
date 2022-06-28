@@ -5,9 +5,10 @@
 
 ## Markdown Basic Syntax
 
-*To add a Title use the # in order to make it the main heading. Like HTML, to make correspondings headings like H1 or H2, add a #; ex. ## for the equivalent of H2.* 
+To add a Title use the # in order to make it the main heading. Like HTML, to make correspondings headings like H1 or H2, add a #;for example 
+### for the equivalent of H3. 
 
-*To create paragraphs, add a line of blank code in between the desired text in order to properly format the prargraph.*
+To create paragraphs, add a line of blank code in between the desired text in order to properly format the prargraph.
 
 For bold text, use three *;for example
 ***BOLD
