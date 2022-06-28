@@ -13,7 +13,7 @@ To create paragraphs, add a line of blank code in between the desired text in or
 
 For bold text, use three *. For example
 
-***BOLD
+***BOLD*** word 
 
 For italic text, use a * insert text and end with *. For example: 
 
