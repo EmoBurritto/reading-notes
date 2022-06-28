@@ -1,6 +1,6 @@
 # Markdown
 
-*Like Microsoft Word, Markdown is like a word processor but specifically for GitHub. Its a tricky best but is easily usuable and has a certain language and art to it that with time, will become your best friend.  
+*Like Microsoft Word, Markdown is like a word processor but specifically for GitHub. Its a tricky best but is easily usuable and has a certain language and art to it that with time, will become your best friend.*
 
 
 ## Markdown Basic Syntax
@@ -11,7 +11,7 @@ To add a Title use the # in order to make it the main heading. Like HTML, to mak
 
 To create paragraphs, add a line of blank code in between the desired text in order to properly format the prargraph.
 
-For bold text, use three *. For example
+For bold text, use three * followed by text then *. For example
 
 ***BOLD*** word 
 
