@@ -40,10 +40,13 @@ For bold with an italic word in between the text start with the bold format do i
 
 **Bold words followed by _italic text_ done**
 
+For images use ![text description of image ](hyper link); For example: 
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## GitHub Pages
 
-*
+Git is the arena and GitHub is the sport. It's a place to colaborately work with others in order to create and add to a repository. It can be public or private. It allows you to see your progress continously and never lose your work. Instead of creating a new file like resume, resume 2, resume updated, etc. It allows to continously work. No database or servers to configure, direct interface. Most commonly used with markdown. You can create a webpage with its master branch and drag and drop files wiht ease. It seems simple enough but does take some time to learn. 
 
 
 #### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
