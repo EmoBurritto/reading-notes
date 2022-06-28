@@ -9,7 +9,8 @@
 
 *To create paragraphs, add a line of blank code in between the desired text in order to properly format the prargraph.*
 
-For bold text, use two *;ex. ** with text will result in **BOLD
+For bold text, use two *;for example:
+**BOLD
 
 For italic text, use a * insert text and end with *; for example: 
 *Fancy*
