@@ -12,7 +12,9 @@
 
 [Coders Computer](topic-read-2.md)
 
-[Git and Github](topic-read-3.md)
+[Revisions and the Cloud](topic-read-3.md)
+
+[Structure web pages with HTML](topic-read-4.md)
 
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
