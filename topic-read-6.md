@@ -2,7 +2,57 @@
 
 ## JS Intro Paragraph
 
+*prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative*
+
+**JavaScript is NOT Java**
+
+*scripting language that enables you to create dynamically updating content, control multimedia, animate image*
+
+const para = document.querySelector('p');
+
+para.addEventListener('click', updateName);
+
+function updateName() {
+  const name = prompt('Enter a new name');
+  para.textContent = `Player 1: ${name}`;
+}
+- this creates the ability to give a name in set box
+
 ## Input and Output in JS
+
+*examples/js/pure_js_greating.html*
+
+<html>
+<head>
+  <title>Hello World</title>
+</head>
+<body>
+ 
+First name: <input id="first_name">
+Last name: <input id="last_name">
+<button id="say">Say hi!</button>
+ 
+<hr>
+<div id="result"></div>
+ 
+<script>
+function say_hi() {
+    var fname = document.getElementById('first_name').value;
+    var lname = document.getElementById('last_name').value;
+ 
+    var html = 'Hello <b>' + fname + '</b> ' + lname;
+ 
+    document.getElementById('result').innerHTML = html;
+}
+ 
+document.getElementById('say').addEventListener('click', say_hi);
+</script>
+ 
+</body>
+</html>
+ 
+**With a button,a div element, two input elements and each one with its own ID**
+
 
 ## Variables
 
@@ -49,7 +99,7 @@ document.getElementById("demo").innerHTML = carName;
 
 **Declare variables at begginnig of script**
 
-*seperate variables with **,** *
+seperate variables with **,** 
 - let person = "John Doe",
   carName = "Volvo",
   price = 200;
