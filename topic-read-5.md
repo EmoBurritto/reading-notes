@@ -50,3 +50,17 @@
 - Browser default
   
 **Inline takes priority**  
+
+ **CSS Color Property**
+
+ body {
+  color: red;
+}
+
+h1 {
+  color: #00ff00;
+}
+
+p.ex {
+  color: rgb(0,0,255);
+}
