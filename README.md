@@ -16,7 +16,7 @@
 
 [Structure web pages with HTML](topic-read-4.md)
 
-[Design web pages with CSS] (topic-read-5.md)
+[Design web pages with CSS](topic-read-5.md)
 
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
