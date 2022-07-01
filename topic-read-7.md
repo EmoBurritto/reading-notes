@@ -49,6 +49,3 @@ don't do x=y for if..else statements
 if (x = y) {
   /* statements here */
 }
-## Functions
-
-## Operators
