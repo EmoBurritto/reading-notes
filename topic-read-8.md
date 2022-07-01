@@ -181,8 +181,6 @@ function howMany(selectObject) {
   return numberSelected;
 }
 
-const btn = document.getElementById('btn');
-
 btn.addEventListener('click', () => {
   const musicTypes = document.selectForm.musicTypes;
   console.log(`You have selected ${howMany(musicTypes)} option(s).`);
