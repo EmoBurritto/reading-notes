@@ -20,7 +20,8 @@
 
 [Dynamic web pages with JavaScript](topic-read-6.md)
 
-[](topic-read-7.md)
+[Programming with JavaScript](topic-read-7.md)
+
 [Operators and Loops](topic-read-8.md)
 
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
