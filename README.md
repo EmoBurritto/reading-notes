@@ -27,7 +27,10 @@
 [Operators and Loops](topic-read-8.md)
 
 ### seattle-code-201d88: Foundations of Software Development
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/main
 [Getting Started](class-01.md)
 
 [Basics of HTML, CSS & JS](class-02.md)
