@@ -6,6 +6,8 @@
 
 ## Table of Contents
 
+### seattle-code-102d40: Intro to Software Development
+
 [Growth Mindset and Bio](class-1.md)
 
 [Markdown Intro](topic-read-1.md)
@@ -19,6 +21,42 @@
 [Design web pages with CSS](topic-read-5.md)
 
 [Dynamic web pages with JavaScript](topic-read-6.md)
+
+[Programming with JavaScript](topic-read-7.md)
+
+[Operators and Loops](topic-read-8.md)
+
+### seattle-code-201d88: Foundations of Software Development
+
+[Getting Started](class-01.md)
+
+[Basics of HTML, CSS & JS](class-02.md)
+
+[HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
+
+[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
+
+[Images, Color, Text](class-05.md)
+
+[Problem Domain, Objects, and the DOM](class-06.md)
+
+[Object-Oriented Programming, HTML Tables](class-07.md)
+
+[CSS Layout](class-08.md)
+
+[Forms and JS Events](class-09.md)
+
+[Debugging](class-10.md)
+
+[Audio, Video, Images](class-11.md)
+
+[Chart.js, Canvas](class-12.md)
+
+[Local Storage and How To Use It On Websites](class-13.md)
+
+[CSS](class-14.md)
+
+[What Google Learned From Its Quest to Build the Perfect Team](class-15.md)
 
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
