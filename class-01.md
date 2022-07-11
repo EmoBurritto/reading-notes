@@ -2,6 +2,26 @@
 
 ## Getting Started with the Web 
 
+Installing basic software is first step for tool using. Ubuntu comes with gedit by default for txt editor Examples of tools used are: 
+-	A Computer (Windows, Linux)
+-	A text editor (VS Code) 
+-	Web browser (Chrome)
+-	Graphics editor (Photoshop) 
+-	Version Control System (Github) 
+-	FTP program, file manager (Git) 
+-	Automation System, running tests (Webpack)
+(reference: https://developer.mozilla.org/enUS/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+
+Website design important like we did on 102; wire frame. 
+
+Centralize folder for web projects; capitalization important, never put a <space> in title. Hyphens are better than underscores computer recognition. 
+
+Structure for website include: 
+-	Index.html 
+-	Image folder 
+-	Styles folder 
+-	Script folder 
+(https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
 
 
