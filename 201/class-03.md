@@ -8,9 +8,9 @@ Can look through references section to further expand knowledge of HTML
 
 ## Ordered and Unordered 
 
-<ol> is the element for ordered list 
+ol is the element for ordered list 
 
-CSS Attributes to affect <ol> are:
+CSS Attributes to affect ol are:
 - reversed: changes boolean attribute of list
 - start: changes font style; use start="4" for roman numeral use
 - type: changes numbering type; use type="i" for lowercase roman numerals
@@ -22,7 +22,7 @@ orded list: list order has meaning
 
 unordered list: list order with no numerical ordering and no meaning
 
-nesting lists: use li then corresponding list element to nest <ol> or <ul>
+nesting lists: use li then corresponding list element to nest ol or ul
 
 (reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 
