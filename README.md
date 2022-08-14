@@ -93,4 +93,4 @@
 
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
-![Profile Pic](/WIN_20220627_05_31_26_Pro.jpg)
+![Profile Pic](images/WIN_20220627_05_31_26_Pro.jpg)
