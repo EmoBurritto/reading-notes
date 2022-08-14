@@ -58,6 +58,39 @@
 
 [What Google Learned From Its Quest to Build the Perfect Team](201/class-15.md)
 
+### seattle-code-301d88: Intermediate Software Development
+
+[Readings: Introduction to React and Components](301/class-01.md)
+
+[Readings: State and Props](301/class-02.md)
+
+[Readings: Passing Functions as Props](301/class-03.md)
+
+[Readings: React and Forms](301/class-04.md)
+
+[Readings: Putting it all together](301/class-05.md)
+
+[Readings: NODE.JS](301/class-06.md)
+
+[Readings: REST](301/class-07.md)
+
+[Readings: APIs](301/class-08.md)
+
+[Readings: Functional Programming](301/class-09.md)
+
+[Readings: In memory storage](301/class-10.md)
+
+[Readings: Mongo and Mongoose](301/class-11.md)
+
+[Readings: CRUD](301/class-12.md)
+
+[Readings: More CRUD](301/class-13.md)
+
+[Readings: Diversity & Inclusion in the Tech Industry](301/class-14.md)
+
+[Readings: Authentication](301/class-15.md)
+
+
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
 ![Profile Pic](/WIN_20220627_05_31_26_Pro.jpg)
