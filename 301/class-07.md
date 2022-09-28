@@ -4,6 +4,7 @@
 
 ## How I explained REST to my brother
 
+(reference: https://reactjs.org/docs/thinking-in-react.html)
 ## Questions 
 
 1. Who is Roy Fielding?
@@ -22,24 +23,28 @@
 
 ## Geocoding API
 
+(reference: https://reactjs.org/docs/thinking-in-react.html)
 ## Questions
 
 1. Did you get your API key?
 
 ## Weather Bit API
 
+(reference: https://reactjs.org/docs/thinking-in-react.html)
 ## Questions
 
 1. Did you get your API key?
 
 ## Yelp API Docs
 
+(reference: https://reactjs.org/docs/thinking-in-react.html)
 ## Questions
 
 1. Did you get your API key?
 
 ## The Movie DB API Docs
 
+(reference: https://reactjs.org/docs/thinking-in-react.html)
 ## Questions
 
 1. Did you get your API key?
