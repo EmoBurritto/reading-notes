@@ -2,6 +2,8 @@
 
 ## CRUD Basics
 
+
+(reference: https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 ## Questions 
 
 1. Which HTTP method would you use to update a record through an API?
@@ -10,6 +12,8 @@
 
 ## Speed Coding: Building a CRUD API 
 
+
+(reference: https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 ## Questions
 
 1. What’s the relationship between REST and CRUD?

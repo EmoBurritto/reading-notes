@@ -2,6 +2,8 @@
 
 ## That Time When Women Stopped Coding
 
+
+(reference: https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 ## Questions 
 
 1. What occurred during the same time as the beginning of the decline of women in computer science?
@@ -11,6 +13,8 @@
 
 ## Why diversity matters to your tech company
 
+
+(reference: https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 ## Questions
 
 1. When are diversity efforts most successful?

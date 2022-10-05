@@ -2,6 +2,8 @@
 
 ## What is OAuth
 
+
+(reference: https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 ## Questions 
 
 1. What is OAuth?
@@ -14,6 +16,8 @@
 
 ## Authorization and Authentication flows
 
+
+(reference: https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 ## Questions
 
 1. What is the difference between authorization and authentication?

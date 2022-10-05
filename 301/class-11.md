@@ -86,3 +86,4 @@ MongoDB more flexible; MongoDB's collections, by default, do not require their d
 Compatibility issues with SQL instructions. New databases use their own characteristics in the query language and they're not yet 100% compatible with the SQL used in relational databases. 
 
 ## Things I want to Know more about 
+- what other databases will we have experience with in this CodeFellows
