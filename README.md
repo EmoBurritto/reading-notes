@@ -90,6 +90,9 @@
 
 [Readings: Authentication](301/class-15.md)
 
+### seattle-code-java-401d13: Advanced Software Development in Java
+
+[Readings: Java Basics](401/class-01.md)
 
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
