@@ -92,6 +92,8 @@
 
 ### seattle-code-java-401d13: Advanced Software Development in Java
 
+[Readings: Growth Mindset](401/class-00.md)
+
 [Readings: Java Basics](401/class-01.md)
 
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
