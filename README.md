@@ -92,6 +92,8 @@
 
 ### seattle-code-java-401d13: Advanced Software Development in Java
 
+[Prep: Practice in the Terminal](401/class-prep.md)
+
 [Readings: Growth Mindset](401/class-00.md)
 
 [Readings: Java Basics](401/class-01.md)
