@@ -98,6 +98,8 @@
 
 [Readings: Java Basics](401/class-01.md)
 
+[Readings: Java Continued](401/classs-02.md)
+
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
 ![Profile Pic](images/WIN_20220627_05_31_26_Pro.jpg)
