@@ -15,7 +15,7 @@
 
 (reference: https://xkcd.com/303/)
 
-## REading Java Documentation
+## Reading Java Documentation
 
 
 (reference: https://www.dummies.com/category/articles/java-33602/)
