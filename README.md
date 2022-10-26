@@ -94,6 +94,10 @@
 
 [Prep: Practice in the Terminal](401/class-prep.md)
 
+[Prep: Data Structures and Algorithms](401/class-prep2.md)
+
+[Prep: Engineering Readings](401/class-prep3.md)
+
 [Readings: Growth Mindset](401/class-00.md)
 
 [Readings: Java Basics](401/class-01.md)
