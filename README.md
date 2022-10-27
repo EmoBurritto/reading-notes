@@ -106,6 +106,8 @@
 
 [Readings: Class 03](401/classs-03.md)
 
+[Readings: Class 04](401/class-04.md)
+
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
 ![Profile Pic](images/WIN_20220627_05_31_26_Pro.jpg)
