@@ -147,9 +147,32 @@ public class Main {
 
 ## Java Singleton Class
 
+To create a singleton class, a class must implement the following properties:
 
+- Create a private constructor of the class to restrict object creation outside of the class.
 
+- Create a private attribute of the class type that refers to the single object.
 
+- Create a public static method that allows us to create and access the object we created. Inside the method, we will create a 
+
+- condition that restricts us from creating more than one object.
+
+example: 
+
+class SingletonExample {
+
+   // private field that refers to the object
+   private static SingletonExample singleObject;
+                                              
+   private SingletonExample() {
+      // constructor of the SingletonExample class
+   }
+
+   public static SingletonExample getInstance() {
+      // write code that allows us to create only one object
+      // access the object as per our need
+   }
+}
 (reference: https://www.programiz.com/java-programming/singleton)
 
 ## Questions
@@ -161,6 +184,10 @@ An object is a software bundle of related state and behavior
 A class is a blueprint or prototype from which objects are created
 
 2. What is a Design Pattern? Describe one or two with analogies from your previous work experience.
+
+Design Patterns are well-proved solution. 
+
+In the Army when you had a problem you tried to solve it at the local level and then went up the chain of command if and when needed due to escalation or no solution found. 
 
 3. Static methods are also called what? Why?
 
