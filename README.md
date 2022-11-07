@@ -114,6 +114,8 @@
 
 [Readings: Class 09](401/class-09.md)
 
+[Readings: Class 11](401/class-11.md)
+
 
 ### My Github profile lives here [github.com/JoseGonzalez1394](https://github.com/JoseGonzalez1394)
 
